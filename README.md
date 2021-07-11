@@ -1,5 +1,5 @@
 # django-portfolio
-Starter repository for Task #10 of SIG PYTHON 2020
+Starter repository for Task #10 of SIG PYTHON 2021
 
 
 ### Create a virtual environment using:
